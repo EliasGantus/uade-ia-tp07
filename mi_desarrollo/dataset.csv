@@ -1,0 +1,81 @@
+texto,intencion
+dale para adelante,MOVER
+Avanzá un metro y medio,MOVER
+Caminá en línea recta,MOVER
+Movete hacia adelante con cuidado,MOVER
+Dá dos pasos hacia atrás,MOVER
+Andá para atrás cincuenta centímetros,MOVER
+Retrocedé medio metro,MOVER
+Avanza tres metros a baja velocidad,MOVER
+Caminá un poco hacia adelante,MOVER
+Muévete en reversa,MOVER
+Seguí derecho unos pasos,MOVER
+"Avanzá a 0,15 m/s",MOVER
+Hacé un desplazamiento corto hacia adelante,MOVER
+Retroceda un metro,MOVER
+date media vuelta,GIRAR
+Gira quince grados hacia la derecha,GIRAR
+Rotá lentamente a la izquierda,GIRAR
+Dá un cuarto de vuelta a la derecha,GIRAR
+Volteá hacia la izquierda,GIRAR
+Girate para quedar mirando al otro lado,GIRAR
+Rotá 120 grados,GIRAR
+Girá un poco en el sentido horario,GIRAR
+Dá la vuelta sobre tu eje,GIRAR
+Gira a estribor,GIRAR
+Rotá en sentido antihorario,GIRAR
+Cambiate de orientación noventa grados,GIRAR
+Gira hacia tu izquierda despacio,GIRAR
+Pivotá sobre el lugar a la derecha,GIRAR
+frená ahí,DETENERSE
+Quedate quieto,DETENERSE
+Pará de moverte,DETENERSE
+No sigas avanzando,DETENERSE
+No te muevas más,DETENERSE
+Frená ahora mismo,DETENERSE
+Detenete por favor,DETENERSE
+Quieto de inmediato,DETENERSE
+Cancelá el movimiento,DETENERSE
+Alto no te desplaces,DETENERSE
+Interrumpí la marcha,DETENERSE
+Pedí una parada de emergencia,DETENERSE
+Deténgase donde está,DETENERSE
+hacele hola a la clase,SALUDO
+Saludá a los visitantes,SALUDO
+Dale la bienvenida a la gente,SALUDO
+Hacé un gesto de saludo,SALUDO
+Mostrá un saludo con la mano,SALUDO
+Saluda con una mano,SALUDO
+Mandales un saludo a mis compañeros,SALUDO
+Dale un hola al público,SALUDO
+Por favor saludá al equipo,SALUDO
+Decí hola a la cámara,SALUDO
+Hola robot,SALUDO
+Hacé un saludo para todos,SALUDO
+Recibí a los alumnos con un saludo,SALUDO
+Indicá el porcentaje de batería restante,CONSULTAR_ESTADO
+Mostrame el estado del robot,CONSULTAR_ESTADO
+¿Te queda suficiente carga?,CONSULTAR_ESTADO
+Decime tu nivel de batería,CONSULTAR_ESTADO
+Consultá tu estado actual,CONSULTAR_ESTADO
+¿Cuál es el nivel de carga?,CONSULTAR_ESTADO
+Reportá cuánta energía te queda,CONSULTAR_ESTADO
+Dame tu estado operativo,CONSULTAR_ESTADO
+¿Está cargada la batería?,CONSULTAR_ESTADO
+¿Me podés decir cómo funciona tu batería?,CONSULTAR_ESTADO
+Quiero consultar los datos de estado,CONSULTAR_ESTADO
+Cuánta energía disponible tenés,CONSULTAR_ESTADO
+Informame si tenés batería baja,CONSULTAR_ESTADO
+qué hora es,DESCONOCIDO
+Contame algo gracioso,DESCONOCIDO
+¿Cuál es tu nombre?,DESCONOCIDO
+Poné una canción,DESCONOCIDO
+Escribí un cuento para chicos,DESCONOCIDO
+Hacé una cuenta de dividir,DESCONOCIDO
+¿Quién inventó el ajedrez?,DESCONOCIDO
+Prendé la luz del pasillo,DESCONOCIDO
+Anotá el nombre de la materia,DESCONOCIDO
+Brincá por encima del banco,DESCONOCIDO
+Empuja el armario con fuerza,DESCONOCIDO
+Corré una carrera contra mí,DESCONOCIDO
+Pateá el cono naranja,DESCONOCIDO

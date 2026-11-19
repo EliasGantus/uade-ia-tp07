@@ -2,7 +2,8 @@
 
 | Archivo | Para qué |
 |---|---|
-| `mi_tp07.py` | Acá escribís tu agente. **Es lo que entregás.** |
+| `tp07_castro_toffoletto_buset_gantus.py` | El agente: clasificador, extractor, validador y ejecutor. **Es lo que se entrega.** |
+| `mi_tp07.py` | Acceso con el nombre de la plantilla: ejecuta el archivo de entrega (lo usan los scripts `EJECUTAR_MI_CODIGO`). |
 | `casos_prueba.json` | Los 25 casos de la cátedra. Dados hechos. |
 | `evaluar.py` | Dado hecho. Calcula tu accuracy y la tabla de fallos. |
 | `ejecutor.py` | Dado hecho. Convierte a velocidad y tiempo, y manda al robot. |

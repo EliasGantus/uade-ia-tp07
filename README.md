@@ -63,7 +63,7 @@ Para comprobar que el entorno está listo: `cd entorno && python -m sim --solo-r
 
 | Archivo | Contenido |
 |---|---|
-| `mi_desarrollo/tp07_castro_toffoletto_buset_gantus.py` | **Lo implementado:** clasificador, extractor, validador y agente (`mi_tp07.py` es la misma copia) |
+| `mi_desarrollo/tp07_castro_toffoletto_buset_gantus.py` | **Lo implementado:** clasificador, extractor, validador y agente (`mi_tp07.py` solo lo ejecuta, con el nombre de la plantilla) |
 | `mi_desarrollo/entrenar.py`, `comparar_clasificadores.py` | Extensión: Naive Bayes y comparación con las reglas |
 | `mi_desarrollo/dataset.csv`, `casos_prueba.json`, `casos_adicionales.json` | 80 frases de entrenamiento, 25 casos de la cátedra y 30 casos adicionales |
 | `mi_desarrollo/ejecutor.py`, `evaluar.py`, `robot.py` | Provistos por la cátedra |

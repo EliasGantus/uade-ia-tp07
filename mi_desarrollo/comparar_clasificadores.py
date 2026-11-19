@@ -9,7 +9,7 @@ from pathlib import Path
 
 from entrenar import cargar_dataset, entrenar, hay_sklearn, metricas_predicciones, revisar_dataset
 from evaluar import PELIGROSOS, _resultado, cargar_casos
-from mi_tp07 import AgenteRobot, ClasificadorIntencion
+from tp07_castro_toffoletto_buset_gantus import AgenteRobot, ClasificadorIntencion
 
 CASOS_ADICIONALES = Path(__file__).with_name("casos_adicionales.json")
 

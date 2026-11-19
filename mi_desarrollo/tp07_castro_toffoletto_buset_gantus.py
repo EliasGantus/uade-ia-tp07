@@ -11,7 +11,6 @@
 #
 #  Integrantes: Martina Morena Castro, Martina Ornella Toffoletto,
 #               Agustin Buset y Elias Gantus
-#  Comision:           .....................................
 # =====================================================================
 
 import math
